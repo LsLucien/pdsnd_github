@@ -161,7 +161,7 @@ def user_stats(df):
     print('-'*40)
 
 def display_data(df):
-    """Display raw data by request from user"""
+    """Display 5 rows of raw data by request from user"""
     
     answers = ['yes', 'no']
     user_answer = input('Do you want to see the first 5 rows of data? (Yes/No)\n')

@@ -10,5 +10,5 @@ Provide US Bikeshare data analysis result by user input.
 "chicago.csv", "new_york_city.csv", "washington.csv" under data folder were used for analysis.
 
 ### Credits
-[Lucien Homepage](https://github.com/LsLucien/ "Visit Lucien's Homepage")
+[Lucien's Homepage](https://github.com/LsLucien/ "Visit Lucien's Homepage")
 

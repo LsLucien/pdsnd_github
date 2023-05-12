@@ -181,7 +181,7 @@ def display_data(df):
         else:
             print(df.iloc[row_number : row_number+5])
             row_number += 5
-            user_answer = input('\nDo you want to see the next 5 rows of raw data? (Yes/No)\n')
+            user_answer = input('\nDo you want to see the next 5 rows of data? (Yes/No)\n')
             while user_answer.casefold() not in answers:
                 user_answer = input('Please input Yes or No:\n')
                 user_answer = user_input.casefold()            
